@@ -1,0 +1,11 @@
+#Display{
+    border: 1px solid green;
+    padding:10px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    width: 30%;
+    height: 50%;
+}
+   #img{
+       height: 200;
+   }
